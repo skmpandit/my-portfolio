@@ -1,0 +1,15 @@
+# dependencies
+
+/frontend/node_modules
+/.php
+.pnp.js
+
+#testing 
+/coverage
+
+#production
+/build
+
+#mics
+.DS_Store
+.env
